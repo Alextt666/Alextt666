@@ -1,4 +1,4 @@
-### Hi 👋, I'm linhaojun857
+### Hi There! 👋, I'm Alex Zhang
 
 ### About me
 
