@@ -2,7 +2,7 @@
 
 ### About me
 
-```Javascript
+```Typescript
 class Alex {
   public age: number;
   private name: string;
