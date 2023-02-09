@@ -17,14 +17,10 @@ class Alex {
   }
   introduce() {
     return {
-      'Educational experience':
-        'Sophomore reading, Department of Computer Science and Technology, Harbin University Of Science And Technology',
-      'Currently learning':
-        'C++, Java, Go, Qt, MySQL, Redis, Kafka, MongoDB, Elasticsearch',
-      'Looking to collaborate on': 'C++, Java and Go related projects',
+      'Educational experience':'Bachelor degree, Department of Automated Science and Technology, Beijing Institute of Technology(ZhuHai)',
+      'Currently learning':'Javascript, Typescript, Java, Vue, React, Node, MySQL, MongoDB',
       'Ask me about': 'Anything related to what I am currently learning',
-      'The direction of efforts':
-        'Be an excellent programmer and create many meaningful open source projects',
+      'The direction of efforts':'Be an excellent programmer and to make a difference in the world! ',
       'Personal blog': 'https://www.linhaojun.top',
     };
   }
