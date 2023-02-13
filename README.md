@@ -21,7 +21,7 @@ class Alex {
   
   introduce() {
         return {
-              'Educational experience':'Bachelor degree, Department of Automated Science and Technology, Beijing Institute of Technology(ZhuHai)',
+              'Educational background':'Bachelor degree, Department of Automated Science and Technology, Beijing Institute of Technology(ZhuHai)',
               'Currently learning':'Javascript, Typescript, Java, Vue, React, Node, MySQL, MongoDB',
               'Ask me about': 'Anything related to what I am currently learning',
               'The direction of efforts':'Be an excellent programmer and to make a difference in the world! ',
