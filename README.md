@@ -33,7 +33,4 @@ class Alex {
 
 ### GitHub Analytics
 
-<a href="https://github.com/Alextt666">
-   <img align="" height="137.9px" src="https://github-readme-stats.vercel.app/api?username=Alextt666&include_all_commits=true&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&line_height=21"/>
-   <img align="" height="137.9px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alextt666&hide_title=true&layout=compact"/>
-</a>
+
