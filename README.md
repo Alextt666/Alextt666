@@ -31,6 +31,12 @@ class Alex {
 }
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/17359898647/17359898647/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/17359898647/17359898647/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/17359898647/17359898647/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### GitHub Analytics
 <a href="https://github.com/Alextt666">
    <img align="" height="137.9px" src="https://github-readme-stats.vercel.app/api?username=Alextt666&include_all_commits=true&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&line_height=21"/>
