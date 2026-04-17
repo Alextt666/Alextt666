@@ -15,7 +15,7 @@ class Alex {
     this.sex = 'male';
   }
   
-  static sayHi() {
+  sayHi() {
         return `Hi! my name is ${this.name} , a great front-end developer! `;
   }
   
