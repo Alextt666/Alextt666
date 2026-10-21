@@ -3,32 +3,27 @@
 ### About me
 
 ```Typescript
-class Alex {
-
-  public age: number;
-  private name: string;
-  protected sex: string;
-  
-  constructor() {
-    this.name = 'Alex';
-    this.age = 18;
-    this.sex = 'male';
-  }
-  
-  sayHi() {
-        return `Hi! my name is ${this.name} , a great front-end developer! `;
-  }
-  
-  introduce() {
-        return {
-              'Educational background':'Bachelor degree, Department of Automated Science and Technology, Beijing Institute of Technology(ZhuHai)',
-              'Currently learning':'Javascript, Typescript, Java, Vue, React, Node, MySQL, MongoDB',
-              'Ask me about': 'Anything related to what I am currently learning',
-              'The direction of efforts':'Be an excellent programmer and to make a difference in the world! ',
-              'Personal blog': 'https://www.tiantian96.ltd',
-            };
-   }
-}
+class Alex {                                                                                                                                                                                                                                                                                  
+  constructor(                                                                                                                                                             
+    private readonly name: string = 'Alex',                                                                                                                                
+    public readonly age: number = 18,                                                                                                                                      
+  ) {}                                                                                                                                                                     
+                                                                                                                                                                           
+  sayHi(): string {                                                                                                                                                        
+    return `Hi! My name is ${this.name}, a great front-end developer!`;                                                                                                    
+  }                                                                                                                                                                        
+                                                                                                                                                                           
+  introduce(): Introduction {                                                                                                                                              
+    return {                                                                                                                                                               
+      'Educational background':                                                                                                                                            
+        'Bachelor degree, Automation Science and Technology, Beijing Institute of Technology (Zhuhai)',                                                                    
+      'Currently learning': ['JavaScript', 'TypeScript', 'Java', 'Vue', 'React', 'Node.js', 'MySQL', 'MongoDB'],                                                           
+      'Ask me about': 'Anything related to what I am currently learning',                                                                                                  
+      Goal: 'Be an excellent programmer and make a difference in the world!',                                                                                              
+      'Personal blog': 'https://www.tiantian96.ltd',                                                                                                                       
+    };                                                                                                                                                                     
+  }                                                                                                                                                                        
+}  
 ```
 
 <picture>
